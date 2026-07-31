@@ -34,17 +34,6 @@ Hill Racer is a 2D hill racing game developed in Python using Pygame. The game f
 
 ---
 
-## 📂 Project Structure
-
-```
-Hill_Racer.py
-README.md
-assets/ (optional)
-screenshots/ (optional)
-```
-
----
-
 ## ▶️ How to Run
 
 1. Install Python 3
